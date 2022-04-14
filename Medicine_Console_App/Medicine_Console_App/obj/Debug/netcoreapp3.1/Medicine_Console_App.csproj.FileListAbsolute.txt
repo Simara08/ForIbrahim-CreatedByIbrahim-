@@ -1,0 +1,14 @@
+C:\Users\ibrahimiskandar\source\repos\Medicine_Console_App\Medicine_Console_App\bin\Debug\netcoreapp3.1\Medicine_Console_App.exe
+C:\Users\ibrahimiskandar\source\repos\Medicine_Console_App\Medicine_Console_App\bin\Debug\netcoreapp3.1\Medicine_Console_App.deps.json
+C:\Users\ibrahimiskandar\source\repos\Medicine_Console_App\Medicine_Console_App\bin\Debug\netcoreapp3.1\Medicine_Console_App.runtimeconfig.json
+C:\Users\ibrahimiskandar\source\repos\Medicine_Console_App\Medicine_Console_App\bin\Debug\netcoreapp3.1\Medicine_Console_App.runtimeconfig.dev.json
+C:\Users\ibrahimiskandar\source\repos\Medicine_Console_App\Medicine_Console_App\bin\Debug\netcoreapp3.1\Medicine_Console_App.dll
+C:\Users\ibrahimiskandar\source\repos\Medicine_Console_App\Medicine_Console_App\bin\Debug\netcoreapp3.1\Medicine_Console_App.pdb
+C:\Users\ibrahimiskandar\source\repos\Medicine_Console_App\Medicine_Console_App\obj\Debug\netcoreapp3.1\Medicine_Console_App.csproj.AssemblyReference.cache
+C:\Users\ibrahimiskandar\source\repos\Medicine_Console_App\Medicine_Console_App\obj\Debug\netcoreapp3.1\Medicine_Console_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimiskandar\source\repos\Medicine_Console_App\Medicine_Console_App\obj\Debug\netcoreapp3.1\Medicine_Console_App.AssemblyInfoInputs.cache
+C:\Users\ibrahimiskandar\source\repos\Medicine_Console_App\Medicine_Console_App\obj\Debug\netcoreapp3.1\Medicine_Console_App.AssemblyInfo.cs
+C:\Users\ibrahimiskandar\source\repos\Medicine_Console_App\Medicine_Console_App\obj\Debug\netcoreapp3.1\Medicine_Console_App.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimiskandar\source\repos\Medicine_Console_App\Medicine_Console_App\obj\Debug\netcoreapp3.1\Medicine_Console_App.dll
+C:\Users\ibrahimiskandar\source\repos\Medicine_Console_App\Medicine_Console_App\obj\Debug\netcoreapp3.1\Medicine_Console_App.pdb
+C:\Users\ibrahimiskandar\source\repos\Medicine_Console_App\Medicine_Console_App\obj\Debug\netcoreapp3.1\Medicine_Console_App.genruntimeconfig.cache
