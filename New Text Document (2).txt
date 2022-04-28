@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+      .required:after {
+        content:" *";
+        color: red;
+      }
+    </style>
+</head>
+<body>
+
+  <form>
+      <h1 style="left: 100px;" >Webinar Regstration</h1>
+      <label class="required" for="fname" >Name:</label>
+    <input type="text" id="fname" placeholder="FirstName"  name="fname">
+    <input type="text" id="lname" placeholder="LastName" name="lname"><br><br>
+
+    <label class="required" for="email">Email:</label>
+    <input type="email" id="email" placeholder="jack@example.com" name="email"><br><br>
+
+    <label class="required" for="company">Company Name:</label>
+    <input type="text" id="company" name="company"><br><br>
+
+    <label class="required" for="companywb">Company Website:</label>
+    <input type="text" id="companywb"  placeholder="https://example.com" name="companywb"><br><br>
+
+    <label for="adress">Adress:</label>
+    <input type="text" id="adress" placeholder="Street adress"  name="adress"  ><br>
+    <input type="text" id="adress" placeholder="Apartment,suite,etc" name="adress"  ><br>
+    <input type="text" id="adress" placeholder="City" name="adress"  >
+    <input type="text" id="adress" placeholder="State" name="adress"  >
+
+    
+   
+  </form>
+</body>
+</html>
