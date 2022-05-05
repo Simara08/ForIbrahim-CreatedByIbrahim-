@@ -1,0 +1,28 @@
+
+body{
+    
+display: flex;
+justify-content: center;
+}
+
+h1{
+    
+    border-bottom: 2px solid rgb(0, 0, 0);
+    height: 41px;
+    width: 655px;
+  }
+div {
+    
+    height: 50px;
+    width: 655px;
+  }
+  h2{font-size: 15px;
+      width: height 10px;;
+  }
+
+
+  .default{
+    font-size: 41px;
+   height: 41px;
+  }
+ 
